@@ -25,4 +25,4 @@ Command Prompt is used to execute entered commands. Most of those commands are u
 
 Command Prompt is officially called Windows Command Processor but is also sometimes called the command shell or by its filename cmd.exe.
 
-[Previous] [Next]
+[Previous](/\Testing the Installation.md) [Next]
