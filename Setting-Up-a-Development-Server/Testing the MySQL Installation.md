@@ -23,4 +23,26 @@ The page that gets displayed in the browser when you go to http://localhost or h
 localhost:10088 is the file index.html in the server’s document root, which is the direc-
 tory that contains the main web documents for a domain. This is the one that is entered
 
+when a basic URL without a path is typed into a browser, such as http://yahoo.com, or,
+in the case of your local web server, http://localhost.
+By default, Zend Server CE uses the following as its document root folder:
+/usr/local/zend/apache2/htdocs
+To ensure that you have everything correctly configured, you should now load a test
+file. Create a small HTML file along the following lines, using TextEdit or any other
+program or text editor (do not use a rich word processor such as Microsoft Word, unless
+you save as plain text):
+<html>
+  <head>
+    <title>A quick test</title>
+  </head>
+  <body>
+    Hello World!
+  </body>
+</html>
+Once you have typed this in, save the file into the document root directory using the
+filename test.htm. You can now call up this page in your browser by entering the fol-
+lowing URL in its address bar (see Figure 2-19):
+http://localhost:10088/test.htm
+
+
 [Previous](\Configuring MySQL.md) [Next]
