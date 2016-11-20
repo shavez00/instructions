@@ -42,4 +42,4 @@ You can return to this screen at any time by entering http://localhost:10081 int
 browser (or, if you entered a value other than 10081 for the Zend server interface port,
 you can get to this screen by using that value after the colon instead).
 
-[Next](\Testing the Installation.md) [Previous](\What Is a WAMP-MAMP-LAMP.md)
+[Previous](\What Is a WAMP-MAMP-LAMP.md) [Next](\Testing the Installation.md)
