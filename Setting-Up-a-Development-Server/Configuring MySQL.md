@@ -35,4 +35,4 @@ Just after this line, insert a new one that reads as follows:
 Now you can press Ctrl-X to exit from edit mode, press the Y key when prompted to
 save the changes, and then press Return to save the edited file.
 
-[Previous](\Directory structure.md) [Next]
+[Previous](\Directory structure.md) [Next](\Testing the MySQL Installation.md)
