@@ -34,4 +34,4 @@ If you type cd.. after you reach the root directory you will get:
 C:\>cd..
 Invalid directory 
 
-[Next] [Previous]
+[Previous](\Terminal window.md) [Next]
