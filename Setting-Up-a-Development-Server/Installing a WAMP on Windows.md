@@ -8,4 +8,4 @@ OS X. You will be asked to log in before you download. You can click a link to g
 file without logging in or registering, but you’ll miss out on product update emails and
 other news.
 
-[Previous]
+[Previous](\What Is a WAMP-MAMP-LAMP.md)
