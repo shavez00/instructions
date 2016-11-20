@@ -40,4 +40,4 @@ You should now have had a trouble-free installation, resulting in a fully workin
 WAMP. But if you encountered any difficulties, check out the comprehensive docu-
 mentation at http://tinyurl.com/zendcedocs, which should sort out your problem.
 
-[Next] [Previous](\Installing a WAMP on Windows.md)
+[Previous](\Installing a WAMP on Windows.md) [Next]()
