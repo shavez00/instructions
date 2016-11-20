@@ -7,3 +7,5 @@ The page should display the correct installer for your computer: Linux, Windows,
 OS X. You will be asked to log in before you download. You can click a link to get the
 file without logging in or registering, but you’ll miss out on product update emails and
 other news.
+
+[Next](\Into)
