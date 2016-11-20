@@ -10,4 +10,4 @@ remember to place :10088 after every http://localhost for all examples in this b
 for example, if the filename test.php is being used, you would call it up from the browser
 using the URL http://localhost:10088/test.php.
 
-[Previous] [Next]
+[Previous] [Next](\Configuring MySQL.md)
