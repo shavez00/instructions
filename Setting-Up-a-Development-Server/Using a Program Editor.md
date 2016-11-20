@@ -1,3 +1,5 @@
+Now that you've gotten your WAMP stack installed and you've learned your way around the terminal window and directory structure is tone to set up your code editor.
+
 Although a plain text editor works for editing HTML, PHP, JavaScript, and CSS, there
 have been some tremendous improvements in dedicated program editors, which now
 incorporate very handy features such as colored syntax highlighting. Today’s program
