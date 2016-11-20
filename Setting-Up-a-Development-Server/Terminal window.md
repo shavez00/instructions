@@ -56,4 +56,4 @@ move test.txt \windows	Moves the test.txt file to the \windows directory.
 move * \windows	Moves all the files in the current directory to the \windows directory.
 At this point you should use the help command to learn about the other available commands.
 
-[Previous](\Testing the Installation.md) [Next]
+[Previous](\Testing the Installation.md) [Next] (\Directory structure.md)
