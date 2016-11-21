@@ -1,0 +1,18 @@
+The PHP Hypertext Preprocessor (PHP) is a programming language that allows web developers to create dynamic content that interacts with databases. PHP is basically used for developing web based software applications.
+
+PHP is an "HTML-embedded scripting language" primarily used for dynamic Web applications. The first part of this definition means that PHP code can be interspersed with HTML, making it simple to generate dynamic pieces of Web pages on the fly. As a scripting language, PHP code requires the presence of the PHP processor. PHP code is normally run in plain-text scripts that will only run on PHP-enabled computers (conversely programming languages can create standalone binary executable files, a.k.a. programs). PHP takes most of its syntax from C, Java, and Perl. It is an open source technology and runs on most operating systems and with most Web servers. PHP was written in the C programming language by Rasmus Lerdorf in 1994 for use in monitoring his online resume and related personal information. For this reason, PHP originally stood for "Personal Home Page". Lerdorf combined PHP with his own Form Interpreter, releasing the combination publicly as PHP/FI (generally referred to as PHP 2.0) on June 8, 1995. Two programmers, Zeev Suraski and Andi Gutmans, rebuilt PHP's core, releasing the updated result as PHP/FI 2 in 1997. The acronym was formally changed to PHP: HyperText Preprocessor, at this time. (This is an example of a recursive acronym: where the acronym itself is in its own definition.) In 1998, PHP 3 was released, which was the first widely used version. PHP 4 was released in May 2000, with a new core, known as the Zend Engine 1.0. PHP 4 featured improved speed and reliability over PHP 3. PHP 5 was released in July 2004, with the updated Zend Engine.  Finally the most recent version of PHP is version 7 (version 6 was skipped) was released in November 2016.
+
+Thanks to its simple learning curve and high adoption in the past decade, PHP was the first language for a considerable number of programmers working today. The basic advantage with PHP is that it can be used with other programming languages like HTML in an embedded manner. This is the reason, why every website development company in India employs certified and skilled PHP professionals to cater the needs of clients demanding great websites. 
+
+PHP is the language that you use to make the server generate dynamic output—output that is potentially different each time a browser requests a page. Many of these development environments let you run the PHP code and see the output
+discussed in this chapter. I’ll also show you how to embed the PHP in an HTML file
+so that you can see what the output looks like in a web page (the way your users will
+ultimately see it). But that step, as thrilling as it may be at first, isn’t really important
+at this stage.
+
+In production, your web pages will be a combination of PHP, HTML, and JavaScript,
+and some MySQL statements laid out using CSS. Furthermore, each page can lead to
+other pages to provide users with ways to click through links and fill out forms. We
+can avoid all that complexity while learning each language, though. Focus for now on
+just writing PHP code and making sure that you get the output you expect—or at least,
+that you understand the output you actually get!
