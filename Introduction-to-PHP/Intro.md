@@ -4,15 +4,8 @@ PHP is an "HTML-embedded scripting language" primarily used for dynamic Web appl
 
 Thanks to its simple learning curve and high adoption in the past decade, PHP was the first language for a considerable number of programmers working today. The basic advantage with PHP is that it can be used with other programming languages like HTML in an embedded manner. This is the reason, why every website development company in India employs certified and skilled PHP professionals to cater the needs of clients demanding great websites. 
 
-PHP is the language that you use to make the server generate dynamic output—output that is potentially different each time a browser requests a page. Many of these development environments let you run the PHP code and see the output
-discussed in this chapter. I’ll also show you how to embed the PHP in an HTML file
-so that you can see what the output looks like in a web page (the way your users will
-ultimately see it). But that step, as thrilling as it may be at first, isn’t really important
-at this stage.
+PHP is the language that you use to make the server generate dynamic output—output that is potentially different each time a browser requests a page. Many of these development environments let you run the PHP code and see the output discussed in this chapter. I’ll also show you how to embed the PHP in an HTML file so that you can see what the output looks like in a web page (the way your users will ultimately see it). But that step, as thrilling as it may be at first, isn’t really important at this stage.
 
-In production, your web pages will be a combination of PHP, HTML, and JavaScript,
-and some MySQL statements laid out using CSS. Furthermore, each page can lead to
-other pages to provide users with ways to click through links and fill out forms. We
-can avoid all that complexity while learning each language, though. Focus for now on
-just writing PHP code and making sure that you get the output you expect—or at least,
-that you understand the output you actually get!
+In production, your web pages will be a combination of PHP, HTML, and JavaScript, and some MySQL statements laid out using CSS. Furthermore, each page can lead to other pages to provide users with ways to click through links and fill out forms. We can avoid all that complexity while learning each language, though. Focus for now on just writing PHP code and making sure that you get the output you expect—or at least, that you understand the output you actually get!
+
+By default, PHP documents end with the extension .php. When a web server encounters this extension in a requested file, it automatically passes it to the PHP processor. Your PHP program is responsible for passing back a clean file suitable for display in a web browser. At its very simplest, a PHP document will output only HTML. To prove this, you can take any normal HTML document, such as an index.html file, and save it as index.php; it will display identically to the original.
