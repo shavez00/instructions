@@ -1,4 +1,4 @@
-Now that you have installed your WAMP stack it's time to take a quick detour and
+Before we launch into programming we need to take a quick detour and
 talk about the windows command prompt, also know as the terminal window.
 
 The command-line interface, sometimes referred to as the CLI, is a tool into which you can type text commands to perform specific tasks—in contrast to the mouse's pointing and clicking on menus and buttons. Since you can directly control the computer by typing, many tasks can be performed more quickly, and some tasks can be automated with special commands that loop through and perform the same action on many files—saving you, potentially, loads of time in the process.
