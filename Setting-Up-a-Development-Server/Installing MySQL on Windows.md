@@ -20,7 +20,7 @@ but where to begin!
 
 We've now got Windows installed on our computer, Apache installed and running as our Web Server, it's now time to install MySQL as our Database Server.
 You can download the MySQL software by navigating to the MySQL
-Web site [Downloads section](https://dev.mysql.com/downloads/mysql/) and click on the blue download button.
+Web site [Downloads section](<a href="https://dev.mysql.com/downloads/mysql/" target="_blank"></a>) and click on the blue download button.
 
 {IMAGE}
 
