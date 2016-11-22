@@ -1,4 +1,4 @@
-In the last section we learned about the windows terminal, which will be important for working with our newly installed WAMP stack, but before we continue working with the WAMP stack, we need to learn about the file system and directory structure.
+In the last section we learned about the windows terminal, which will be important for working with the tools we'll need for programming, but before we move on, we need to learn about the file system and directory structure.
 
 In computing, a directory structure is the way an operating system's file system and its files are displayed to the user. Files are typically displayed in a hierarchical tree structure.
 
@@ -34,4 +34,4 @@ If you type cd.. after you reach the root directory you will get:
 C:\>cd..
 Invalid directory 
 
-[Previous](\Terminal window.md) [Next]
+[Previous](\Terminal window.md) [Next](\What Is a WAMP-MAMP-LAMP.md)
