@@ -14,7 +14,7 @@ broad array of information, including server log files, e-mail, images, Web cont
 help desk tickets, and gaming statistics. If you require advice or support, you can use
 your favorite search engine to consult one of the hundreds of tutorials written regarding
 every imaginable aspect of the software; browse MySQL’s gargantuan [manual](https://dev.mysql.com/doc/); or pose a
-question in any of the high-traffic MySQL-specific newsgroups like [Stack Overflow](https://dev.mysql.com/doc/). In fact, when researching
+question in any of the high-traffic MySQL-specific newsgroups like [Stack Overflow](http://stackoverflow.com/questions/tagged/mysql). In fact, when researching
 MySQL, the problem isn’t so much one of whether you’ll find what you’re looking for,
 but where to begin!
 
