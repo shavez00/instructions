@@ -16,4 +16,4 @@ But unlike your graph paper list, your spread sheet list exists in a computer.  
 
 A database, like MySQL, is a special type of program that you can store information.  You can organize it into rows and columns, just like your graph paper and spread sheet.  But unlike your graph paper, or even a spread sheet, there's no limit to how much information you can store in it.  Databases were also specially created to be able to search through large amounts of information super fast.  When you go to Google or YouTube and search for something, what you're really doing is searching a database.  Google has created a database that stores every website ever created and YouTube has created a database that allows us to search through videos.  As part of our WAMP stack, we're going to use the MySQL database to store information so that we can store vast amounts of information and our programs can search through it instantaneously.
 
-[Previous] [Next]
+[Previous](Installing Apache on Windows.md) | [Next]
