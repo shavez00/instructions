@@ -50,4 +50,4 @@ Type in "http://localhost" for the website you want to visit and you will see a 
 
 Congradulations!  You've now installed and run you're first web server.
 
-[Previous](\What Is a WAMP-MAMP-LAMP.md) | [Next](\Installing MySQL on Windows.md)
+[Previous](\What Is a WAMP-MAMP-LAMP.md) | [Next](\Storing information.md)
