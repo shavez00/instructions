@@ -25,4 +25,4 @@ Web site [Downloads section](https://dev.mysql.com/downloads/mysql/) and click o
 
 Download this package, saving it to the local machine.
 
-[Previous](\Storing Information.md) | [Next]
+[Previous](\Storing information.md) | [Next]
