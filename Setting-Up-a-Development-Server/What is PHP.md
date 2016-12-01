@@ -28,4 +28,4 @@ Linux operating systems are widely considered more secure than Windows, since th
 
 Finally, with such a wealth of viewable source code and no shortage of online tutorials, PHP is easy to learn. This means people can start off with a standard installation of a given program and tweak it to meet their own specific needs.
 
-[Previous] (Installing MySQL on Windows.md) | Next
+[Previous] (Installing MySQL on Windows.md) | [Next] (Installing PHP on Windows.md)
