@@ -17,6 +17,10 @@ Step 4: Click on the OK button
 
 After following these steps you will be presented with a window that look similar to Figure 1 below.
 
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+
 The command prompt is simply a window that by default displays the current directory, or in windows term a folder, that you are in and has a blinking cursor ready for you to type your commands. For example in Figure 1 above you can see that it says C:\WINDOWS>. The C:\WINDOWS> is the prompt and it tells me that I am currently in the c:\windows directory. If I was in the directory c:\program files\directory the prompt would instead look like this: C:\PROGRAM FILES\DIRECTORY>.
 
 To use the command prompt you would type in the commands and instructions you want and then press enter. In the next section we will discuss some useful commands and how to see all available built in commands for the command prompt.
