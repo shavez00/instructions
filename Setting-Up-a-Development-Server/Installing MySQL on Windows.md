@@ -96,4 +96,4 @@ A confirmation that you have successfully installed MySQL will appear.  Click th
 
 Congradulations!  You have installed and configured your MySQL Database Server.
 
-[Previous](https://github.com/shavez00/instructions/blob/master/Setting-Up-a-Development-Server/Storing%20information.md) | [Next](\What is PHP.md)
+[Previous](https://github.com/shavez00/instructions/blob/master/Setting-Up-a-Development-Server/Storing%20information.md) | [Next](https://github.com/shavez00/instructions/blob/master/Setting-Up-a-Development-Server/What%20is%20PHP.md)
