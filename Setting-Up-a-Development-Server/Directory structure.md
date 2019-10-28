@@ -34,4 +34,4 @@ If you type cd.. after you reach the root directory you will get:
 C:\>cd..
 Invalid directory 
 
-[Previous](\Terminal window.md) | [Next](\What Is a WAMP-MAMP-LAMP.md)
+[Previous](https://github.com/shavez00/instructions/blob/master/Setting-Up-a-Development-Server/Terminal%20window.md) | [Next](\What Is a WAMP-MAMP-LAMP.md)
