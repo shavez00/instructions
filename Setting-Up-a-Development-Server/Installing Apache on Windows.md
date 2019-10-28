@@ -50,4 +50,4 @@ Type in "http://localhost" for the website you want to visit and you will see a 
 
 Congradulations!  You've now installed and run you're first web server.
 
-[Previous](https://github.com/shavez00/instructions/blob/master/Setting-Up-a-Development-Server/What%20Is%20a%20WAMP-MAMP-LAMP.md) | [Next](\Storing information.md)
+[Previous](https://github.com/shavez00/instructions/blob/master/Setting-Up-a-Development-Server/What%20Is%20a%20WAMP-MAMP-LAMP.md) | [Next](https://github.com/shavez00/instructions/blob/master/Setting-Up-a-Development-Server/Storing%20information.md)
