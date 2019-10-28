@@ -40,6 +40,7 @@ The CD command - This command allows you to change your current directory or see
 
 The DIR command - This command will list the files and directories contained in your current directory, if used without an argument, or the directory you specify as an argument. To use the command you would just type dir and press enter and you will see a listing of the current files in the directory you are in, including information about their file sizes, date and time they were last written to. The command will also show how much space the files in the directory are using and the total amount of free disk space available on the current hard drive. If I typed dir \test I would see the contents of the c:\test directory as shown in Figure 2 below.
 
+![alt text](https://github.com/shavez00/instructions/blob/master/Setting-Up-a-Development-Server/path.gif)
 
 If you examine the screen above you will see a listing of the directory. The first 2 columns are the date and time of the last write to that file. Followed by whether or not the particular entry is a directory or a file, then the size of the file, and finally the name of the file. You may have noticed that there are two directories named . and .., which have special meaning in operating systems. The . stands for the current directory and the .. stands for the previous directory in the path. In the example above, .. stands for c:\windows.
 
